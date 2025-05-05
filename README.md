@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Front-End Developer | QA Enthusiast
 
-I'm a self-taught web developer and junior QA based in Europe.  
+Junior manual tester with a focus on testing web applications based in Europe.  
 I build fast, clean, and user-friendly websites using **HTML, CSS, JavaScript**, and **modern design systems**.  
 I also have hands-on experience with **manual and API testing (Postman, SQL)** and love bridging the gap between dev and QA.
 
